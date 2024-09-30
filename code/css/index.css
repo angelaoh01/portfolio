@@ -38,3 +38,13 @@ p {
     gap: 10%;
 
 }
+
+#work{
+    display: flex;
+    flex-direction: column;
+    gap: 30%;
+}
+
+.projects{
+    width: 40%;
+}
